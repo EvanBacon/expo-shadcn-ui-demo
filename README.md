@@ -1,6 +1,6 @@
 # Expo Router v3 shadcn-ui demo
 
-This is a web-only guide for setting up [Tailwind CSS](https://tailwindcss.com/) and [Shadcn UI](https://ui.shadcn.com/) in an [Expo Router](https://docs.expo.dev/router/introduction/) project.
+This is a web-only guide for setting up [Tailwind CSS](https://tailwindcss.com/) and [Shadcn UI](https://ui.shadcn.com/) in an [Expo Router v3](https://docs.expo.dev/router/introduction/) project.
 
 ## Setup Tailwind
 
