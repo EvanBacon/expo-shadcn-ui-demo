@@ -1,5 +1,3 @@
-import "../global.css";
-
 import { Header } from "@/components/header";
 import { Navigator, Slot } from "expo-router";
 
