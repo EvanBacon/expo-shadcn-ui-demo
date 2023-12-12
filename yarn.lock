@@ -4547,7 +4547,7 @@ expo-web-browser@0.0.1-canary-20231205-250b31f:
     compare-urls "^2.0.0"
     url "^0.11.0"
 
-expo@~50.0.0-alpha.7:
+expo@^50.0.0-canary-20231205-250b31f:
   version "50.0.0-canary-20231205-250b31f"
   resolved "https://registry.yarnpkg.com/expo/-/expo-50.0.0-canary-20231205-250b31f.tgz#58ebd4720be0122000af6cff1ff6837a550780d2"
   integrity sha512-S1yaigdrDUJYZizIbuWd8Xt/uHrW94kX913qeJOW/0Sixwkm093htpb09Mnb4BletmRoSE+cH0bccJmy5KKxNA==

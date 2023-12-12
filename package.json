@@ -23,7 +23,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "date-fns": "^2.30.0",
-    "expo": "~50.0.0-alpha.7",
+    "expo": "^50.0.0-canary-20231205-250b31f",
     "expo-font": "0.0.1-canary-20231205-250b31f",
     "expo-linking": "0.0.1-canary-20231205-250b31f",
     "expo-router": "0.0.1-canary-20231205-250b31f",
