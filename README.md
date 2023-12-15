@@ -93,3 +93,5 @@ export default function Home() {
 ```
 
 > Reminder: Shadcn UI does not work on native, so you'll need to ensure you don't load any Shadcn UI components on native. You can use the `Platform` module to do this. Learn more: [Platform-specific modules](https://docs.expo.dev/router/advanced/platform-specific-modules/).
+
+- Example application with native https://github.com/EvanBacon/expo-router-better-web-drawers-example
